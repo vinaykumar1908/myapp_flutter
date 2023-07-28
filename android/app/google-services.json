@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187750307571",
+    "project_id": "myapp-ea9cf",
+    "storage_bucket": "myapp-ea9cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187750307571:android:8c0e2e0c3da865a8870986",
+        "android_client_info": {
+          "package_name": "com.vinay.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187750307571-d5spbd528e431vs05e2al0cn0b2856lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdo2bh-_U2Twy9vshvyOnfZJGRF1tZ33c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187750307571-d5spbd528e431vs05e2al0cn0b2856lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
