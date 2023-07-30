@@ -39,6 +39,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   child: Column(
                     children: [
                       TextFormField(
+                        keyboardType: TextInputType.emailAddress,
                         controller: emailController,
                         decoration: const InputDecoration(
                             hintText: 'Email',
@@ -54,6 +55,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         height: 20,
                       ),
                       TextFormField(
+                        keyboardType: TextInputType.text,
                         controller: passwordController,
                         obscureText: true,
                         decoration: const InputDecoration(
